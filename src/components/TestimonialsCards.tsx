@@ -11,7 +11,7 @@ export function TestimonialsCards() {
      items-center justify-center
      relative overflow-hidden">
       <h2
-      className="text-3xl font-bold text-center mb-8 z-10">Hear Our Harmony: Voicesof success</h2>
+      className="text-3xl font-bold text-center mb-8 z-10">Hear Our Harmony: Voices of success</h2>
       <div className="w-full max-w-6xl">
       <InfiniteMovingCards
         items={testimonials}

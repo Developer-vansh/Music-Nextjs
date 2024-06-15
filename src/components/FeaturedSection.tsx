@@ -17,7 +17,7 @@ interface  Course{
 export default function FeaturedSection() {
  const featuredCourses= courseData.courses.filter((c:Course)=>c.isFeatured)
   return (
-    <div className="py-12 bg-gray-900">
+    <div className=" py-12 bg-gray-900">
     <div>
         <div className="text-center">
         <h2 className="text-base text-teal-600 
